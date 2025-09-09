@@ -1,0 +1,5 @@
+{
+  "name": "AI Wine Tasting Notes",
+  "description": "An elegant web application for wine tasters to log their notes and for administrators to review and analyze tasting data. The app provides a streamlined interface for capturing detailed wine characteristics.",
+  "requestFramePermissions": []
+}
